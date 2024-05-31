@@ -7,3 +7,6 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 or there can text that can be writte as : 
 Hello! How'r u doing.?
 ```
+# This is a Task List: 
+- [x] Just almost completed exploring github education.
+- [ ] Have to add dates in Google Calender.
